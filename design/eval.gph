@@ -1,0 +1,8 @@
+fn add(a, b) {
+    return a + b
+}
+
+const first = 5
+const second = 5
+
+len("asd")
